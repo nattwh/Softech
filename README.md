@@ -9,4 +9,4 @@ Alejandra Cruz
 Samantha Bustos
 Natalia Mendez
 
-Se maneja planteamiento y organizacion de datos ya antes dados, se usa el metodo de Matriz Valor vs Complejidad para la priorizacion de requisitos y diagrama UML  para facilitar la estructura, el comportamiento del sistema 
+Se maneja planteamiento y organizacion de datos ya antes dados, se usa el metodo de Matriz Valor vs Complejidad para la priorizacion de requisitos y diagrama UML  para facilitar la estructura y el comportamiento del sistema. 
