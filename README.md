@@ -5,7 +5,7 @@ En este proyecto se busca corregir estos errores y garantizar el éxito del nuev
 
 *Nuestro equipo conformado por:*
 
-Leidy Diaz-
+Leidy Diaz
 -Alejandra Cruz
 -Samantha Bustos
 -Natalia Mendez
